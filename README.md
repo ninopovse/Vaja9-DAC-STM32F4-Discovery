@@ -14,3 +14,4 @@
 # Komentar
 
 Sprva sva imela težave z razvojno ploščico STM32VLDISCOVERY(napaka OPENOCD) zato sva vzela razvojno ploščico STM32F4-Discovery.
+Mikroprocesor deluje tako,da bo izvede digitalno analogno pretvorbo. Na izhodu nastavimo poljubno napetost, ki jo izmerimo z V-metrom
